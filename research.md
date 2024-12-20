@@ -1,4 +1,3 @@
-# research.md
 ---
 layout: page
 title: "Research"

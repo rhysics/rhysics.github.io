@@ -1,8 +1,8 @@
 # Site settings
-title: "My Academic Portfolio"
+title: "Rhys Taus"
 email: rhys.taus@NOSPAM.cern.ch
 author: "Rhys Taus"
-description: "An academic portfolio showcasing my research, teaching, and achievements."
+description: "My Personal website"
 
 # URL settings (GitHub Pages)
 baseurl: ""  # Leave blank for GitHub Pages
