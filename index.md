@@ -1,8 +1,10 @@
 ---
 layout: home
-title: "Welcome to My Academic Portfolio"
+title: "Home"
 ---
 
 Welcome to my portfolio! 
+
+![My Photo](assets/images/about-me.jpg)
 
 ---
