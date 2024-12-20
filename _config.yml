@@ -2,8 +2,8 @@
 title: "Rhys Taus"
 email: rhys.taus@NOSPAM.cern.ch
 author: "Rhys Taus"
-description: "My Personal website"
-
+description: >- # this means to ignore newlines until "baseurl:"
+  I am a PhD student at the University of Rochester working at the CMS experiment at CERN.
 # URL settings (GitHub Pages)
 baseurl: ""  # Leave blank for GitHub Pages
 url: "https://rhysics.github.io"
