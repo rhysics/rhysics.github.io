@@ -11,6 +11,12 @@ url: "https://rhysics.github.io"
 # Theme settings
 theme: minima
 
+nav_order:
+  - Home
+  - About Me
+  - Research
+  - Contact
+  
 # Defaults
 defaults:
   - scope:

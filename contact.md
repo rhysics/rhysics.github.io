@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: true
 title: "Contact"
 permalink: /contact/
 ---
