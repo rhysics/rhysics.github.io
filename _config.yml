@@ -8,46 +8,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 # URL settings (GitHub Pages)
 baseurl: ""  # Leave blank for GitHub Pages
 url: "https://rhysics.github.io"
-github_username:  rhysics
-# Theme settings
-theme: minima
 
-nav_order:
-  - Home
-  - About Me
-  - Research
-  - Contact
-  
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+github_username:  rhysics
 
 # Build settings
-markdown: kramdown
-
+theme: minima
 plugins:
   - jekyll-feed
+markdown: kramdown
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+minima:
+  navigation:
+    - text: "Home"
+      url: "/"
+    - text: "About Me"
+      url: "/about/"
+    - text: "Research"
+      url: "/research/"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 sidebar: true
 title: "About Me"
 permalink: /about/

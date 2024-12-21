@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+  </head>
+  <body>
+    <!-- Navigation Bar -->
+    <header>
+      <span class="nav-title">Rhys Taus | Physicist</span>
+      <nav>
+        <ul>
+          {% for item in site.minima.navigation %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.text }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <img class="profile-pic" src="/assets/images/profile.jpg" alt="Profile Picture">
+      <p class="description">{{ site.description }}</p>
+      <ul class="social-links">
+        <li><a href="mailto:{{ rhystaus@gmail.com }}">Email</a></li>
+        <li><a href="https://linkedin.com/in/rhys.taus" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/rhysics" target="_blank">GitHub</a></li>
+        <li><a href="https://gitlab.cern.ch/rtaus" target="_blank">GitLab</a></li>
+      </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>

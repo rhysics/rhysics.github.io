@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 sidebar: true
 title: "Home"
 ---
