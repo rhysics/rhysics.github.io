@@ -6,21 +6,32 @@
 #     - name: Languages
 #       value: English, French (A2)
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Visiting Scientist
+      institution: University of Rochester, Rochester, NY, USA
+      year: 2026 - Present
+      description:
+        - Electroweak precision measurements, weak mixing angle, Drell-Yan cross section, angular coefficients
+        - Hadronic Calorimeter radiation damage studies
+
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Rochester, Rochester, New York, USA
+    - title: PhD in Physics and Astronomy
+      institution: University of Rochester
       year: 2025
       description:
-        - Thesis: "Measurement of the weak mixing angle at 13 TeV with the CMS detector"
-        - Supervisors: Professor Arie Bodek
-    - title: B.S. in Physics
-      institution: Loyola Marymount University, Los Angeles, California, USA
+        - CMS Run 2 measurement of the weak mixing angle with Professor Arie Bodek
+        - Forward Hadronic Calorimeter electron reconstruction
+        - Hadronic calorimeter radiation damage studies
+    - title: BSc in Physics Minor in Mathematics
+      institution: Loyola Marymount University
       year: 2015
       description:
-        - George R. Kalbfleisch Endowed Award in Physics
-        - Presidential Citation
+
+
 
 # - title: Experience
 #   type: time_table
