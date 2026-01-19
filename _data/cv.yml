@@ -23,14 +23,23 @@
       institution: University of Rochester
       year: 2025
       description:
-        - CMS Run 2 measurement of the weak mixing angle with Professor Arie Bodek
+        - CMS Run-2 measurement of the weak mixing angle with Professor Arie Bodek
         - Forward Hadronic Calorimeter electron reconstruction
         - Hadronic calorimeter radiation damage studies
     - title: BSc in Physics Minor in Mathematics
       institution: Loyola Marymount University
       year: 2015
       description:
+        - Thesis Relativistic orbits in a generalized uncertainty principle space-time
 
+
+- title: Talks
+  type: list
+  contents:
+    - “Measurement of the eﬀective leptonic weak mixing angle using proton-proton collisions at 13 TeV”, 2024 US CMS Annual Collaboration Meeting, 18 Jun 2024
+    - “Weak mixing angle measurement at CMS”, LHC Electroweak Working Group General Meeting, 11 Jul 2024
+    - “Forward electron reconstruction”, CMS Standard Model Workshop 2024, 20 Jun 2024
+    - “Determination of the Weak Mixing Angle”, QCD@LHC2022, 30 Nov 2022
 
 
 # - title: Experience
