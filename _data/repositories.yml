@@ -3,8 +3,8 @@
 
 repo_description_lines_max: 2
 
-github_repos:
-  - rhysics/plotting_scripts
+HEP_tools:
+  - rhysics/resultsCompare
   # - alshedivat/al-folio
   # - jekyll/jekyll
   # - twbs/bootstrap
@@ -12,3 +12,8 @@ github_repos:
   # - FortAwesome/Font-Awesome
   # - mathjax/MathJax
   # - jpswalsh/academicons
+
+github_repos:
+  - rhysics/wikiTree
+  - rhysics/qwikiPlots
+
