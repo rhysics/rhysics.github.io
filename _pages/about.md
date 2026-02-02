@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an experimental particle physicist working with the [CMS collaboration](https://cms.cern/collaboration) at [CERN](https://home.cern/). My research interests are in _precision_ measurements in the _electroweak_ sector with the goal of testing the standard model to its limit. I worked on the CMS Run-2 measurement of the weak mixing angle, with emphasis on the development of novel forward electron objects.
+I am an experimental particle physicist working with the [CMS collaboration](https://cms.cern/collaboration) at [CERN](https://home.cern/). My research interests are in _precision_ measurements of the _electroweak_ sector with the goal of testing the standard model to its limit. I worked on the CMS Run-2 measurement of the weak mixing angle, with emphasis on the development of novel forward electron objects.
 
 In addition to physics analysis at CMS I have worked with Hadronic Calorimeter subdetector in operations and detector performance. In particular I perform detailed studies of the radiation damage and implemented an automated workflow to provide calibrations to the detector.
 
