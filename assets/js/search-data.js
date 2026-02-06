@@ -455,6 +455,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/rhys-taus", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/rhysics", "_blank");
+        },
+      },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
